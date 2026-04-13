@@ -13,9 +13,7 @@
 
 - ⚡ Fun fact **I have a background in filmmaking.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<img width="485" height="294" alt="Image" src="https://github.com/user-attachments/assets/ffbaa2c6-9923-416f-8927-c4d6232f35c1" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
